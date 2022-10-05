@@ -11,6 +11,8 @@ Project 2
     • Step 5 – Testing PHP with Nginx 
     • Step 6 – Retrieving data from MySQL database with PHP (continued)
 
+### setting up EC2 and SSH 
+
 ![nano instance created 0 ](https://user-images.githubusercontent.com/107949309/194036819-e5c5971c-b290-4c22-aab2-1d5de9dabd1a.png)
 
 ![Instance Type ](https://user-images.githubusercontent.com/107949309/194037025-c29b4c08-3e4e-4cc6-bfa5-1dcf8e2a0420.png)

@@ -1,6 +1,7 @@
 # Devops-pj2
 Project 2
-WEB STACK IMPLEMENTATION (LEMP STACK)
+
+## WEB STACK IMPLEMENTATION (LEMP STACK)
 
 
     • Step 1 – Installing the Nginx Web Server 
@@ -35,6 +36,8 @@ WEB STACK IMPLEMENTATION (LEMP STACK)
 ![add port 80](https://user-images.githubusercontent.com/107949309/194055051-ce765e6a-4d65-4af3-a21f-719a76f715fe.png)
 
 ![500  bad gateway](https://user-images.githubusercontent.com/107949309/194046488-a7e55fe3-b79f-4637-bb20-e4bafd1da7fc.png)
+
+![Welcome2Nginx](https://user-images.githubusercontent.com/107949309/194060589-3e350b28-7b98-4b3e-b54f-a16fa21144d2.png)
 
  ## Step 2 — Installing MySQL 
   
